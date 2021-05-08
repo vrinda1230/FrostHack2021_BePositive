@@ -33,6 +33,3 @@ Project build for hackathon FrostHack organized by IIT Mandi.
 ```sh
     http://localhost:3000/
 ```
-
-- Now you are good to go, get reliable data and take wise decision 👾‍
-- Open for code reviews. Connect with team!
