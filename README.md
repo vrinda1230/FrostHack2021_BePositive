@@ -18,7 +18,7 @@ Project build for hackathon FrostHack organized by IIT Mandi.
 - Clone the repository.
 - Open your favourite editor.
 - Run the following commands.
-- You should have node and npm installed.
+- You should have node installed.
 
 ```sh
     npm install
@@ -33,3 +33,4 @@ Project build for hackathon FrostHack organized by IIT Mandi.
 ```sh
     http://localhost:3000/
 ```
+Credits: https://github.com/sanjana-302/SHEhacksDTU
